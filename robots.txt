@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ibogemi.github.io/sitemap
+Sitemap: https://ibogemi.github.io/app/sitemap
+Sitemap: https://ibogemi.github.io/assets/sitemap
+Sitemap: https://ibogemi.github.io/css/sitemap
+Sitemap: https://ibogemi.github.io/includes/sitemap
+Sitemap: https://ibogemi.github.io/item/sitemap
+Sitemap: https://ibogemi.github.io/src/sitemap
